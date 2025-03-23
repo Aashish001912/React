@@ -1,3 +1,4 @@
+
 React Components are the building blocks of React application.
 by default, React application creates a root component called App.
 A component is a small, reusable piece of code that represents a UI element. components are flexible, modular and reusable
@@ -24,7 +25,7 @@ React Provides two kinds of components
           <Header />
      
      props: props are used to send the values from parent components to child component. props is shortform of "properties"
-     we send properties as attributes and receives the properties as parameters of function
+     we can send properties as attributes and receives the properties as parameters of function
      eg:
        //App.jsx
        <Header name="PRASAD" />
