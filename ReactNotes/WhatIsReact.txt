@@ -1,0 +1,34 @@
+1. what is React JS?
+        React JS is javascript library used for UI Purposes, created and maintained by meta
+
+It is the most demanding skill needed in current trend
+
+2. Requirements: HTML,CSS and JS(variables,datatypes,loops,condition statements, 
+functions, arrays-- map,forEach,filter,reduce,promises,
+async await,DOM)
+
+3. React vs Angular:
+      React is JS library(pre written code used for specific purpose). Angular is a framework(complete environment a developer needs)
+     React is easy and functional based. Angular uses class based techniques
+     React supports one way data binding and angular supports two way data binding
+  React is like system which other items to be install 
+libraries
+. angular is like technology where third part libraries are not needed.
+
+React JS Course:
+  i. course duration: 4.05-4.10   --- 5.40-5.45
+  ii. course period: 30 sessions
+iii. course Topics:
+            1. react introduction(jsx,props,components)
+            2. components
+            3. types of componets
+            4. lifeCycle method
+                   -- lists & condtional rendering
+            5. useState,useEffect
+                  context API
+             6. forms
+            7. routing
+            8. hooks
+            9. redux
+             10. Realtime project -- 
+             Basic ecommerce or basic OTT
